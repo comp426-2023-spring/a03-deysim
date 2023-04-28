@@ -19,7 +19,7 @@ function help() {
 }
 
 function rule() {
-	console.log(`Rules for the Lizard-Spock Espansion of Rock Paper Scissors:
+	console.log(`Rules for the Lizard-Spock Expansion of Rock Paper Scissors:
     - Scissors CUTS Paper
     - Paper COVERS Rock
     - Rock SMOOSHES Lizard
